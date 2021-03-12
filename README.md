@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/DaveTCode/FreshdeskApiDotnet/actions/workflows/ci-master.yml/badge.svg)](https://github.com/DaveTCode/FreshdeskApiDotnet/actions/workflows/ci-master.yml)
+[![Build Status](https://github.com/DaveTCode/FreshdeskApiDotnet/actions/workflows/ci-master.yml/badge.svg?branch=master)](https://github.com/DaveTCode/FreshdeskApiDotnet/actions/workflows/ci-master.yml)
 [![NuGet](https://img.shields.io/nuget/v/Freshdesk.Api.svg?style=flat-square&label=nuget)](https://www.nuget.org/packages/Freshdesk.Api/)
 
 # Freshdesk API Client
